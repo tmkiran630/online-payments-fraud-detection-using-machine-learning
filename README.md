@@ -1,4 +1,5 @@
  💳 Online Payments Fraud Detection using Machine Learning
+ 
 Online Payments Fraud Detection using Machine Learning to identify fraudulent transactions in digital payment systems. The project includes data preprocessing, exploratory analysis, feature engineering, and classification models to detect suspicious activities with improved accuracy, precision, and recall.
  📌 Overview
 This project detects fraudulent online payment transactions using a Random Forest classifier integrated with a Flask web application.
